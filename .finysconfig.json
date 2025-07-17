@@ -1,0 +1,8 @@
+{
+  "name": "my-finys-agent",
+  "version": "0.1.0",
+  "description": "My first Finys automation agent",
+  "wallet": "",
+  "triggers": [],
+  "actions": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "eth-check",
+  "name": "ETH Price Checker",
+  "chain": "eth",
+  "wallet": "0xYourWalletAddress",
+  "trigger": {
+    "type": "price-check",
+    "asset": "ETH",
+    "operator": ">",
+    "threshold": 3000
+  },
+  "action": {
+    "type": "swap",
+    "from": "ETH",
+    "to": "USDC",
+    "amount": 0.5
+  }
+}
