@@ -1,6 +1,6 @@
 FINYSLABS CLI
 
-The Finys CLI is the official developer toolkit for building secure financial automation agents using the Finys Protocol. It enables users to define, simulate, and eventually deploy on-chain and off-chain financial logic — such as rebalancing crypto, executing swaps, or monitoring market triggers — using a single command line interface.
+The Finys CLI is the official developer toolkit for building secure financial automation agents using the Finys Protocol. It enables users to define, simulate, and eventually deploy on-chain and off-chain financial logic, such as rebalancing crypto, executing swaps, or monitoring market triggers, using a single command line interface.
 
 
 -------------------------------------------------------------------------------------------------
